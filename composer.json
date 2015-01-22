@@ -1,7 +1,7 @@
 {
   "name":"leezhxing/mffc",
   "description":"this is my first submit pack",
-  "keywords":"[]",
+  "keywords":["leezhxing","mffc"],
   "require": {
     "codingbean/macaw": "dev-master",  
     "illuminate/database": "*",   
