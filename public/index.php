@@ -2,6 +2,7 @@
 
 //定义PUBLIC_PATH
 /* 我是测试分支 */
+/* woshichucang */
 
 define('PUBLIC_PATH', __DIR__);
 
