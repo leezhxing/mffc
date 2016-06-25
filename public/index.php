@@ -2,6 +2,7 @@
 
 //定义PUBLIC_PATH
 /* 我是测试分支 */
+
 define('PUBLIC_PATH', __DIR__);
 
 date_default_timezone_set("PRC");
